@@ -8,7 +8,7 @@ Currently focused on:
 - 📖 Learning languages (currently Arabic and Mandarin)
 
 ### Skills & Tools
-- **Langauges:** Indonesian, English, Arabic (and learning more!)
+- **Languages:** Indonesian, English, Arabic (and learning more!)
 - **Programming:** HTML, CSS, JavaScript
 - **Tools:** Git, VS Code, Figma, WordPress
 
