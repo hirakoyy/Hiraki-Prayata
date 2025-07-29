@@ -14,7 +14,7 @@ Currently focused on:
 
 ### Fun Facts
 - 🌱 I'm currently learning Mandarin
-- 🎶 I enjoy painting and movies
+- 🎶 I enjoy painting and watching movies
 - 🤝 Open to collaboration and exciting ideas
 
 ---
